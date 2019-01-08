@@ -1,3 +1,5 @@
+# 功能展示
+[点此观看](https://quiethear.github.io/canvas-universe/canves动画--宇宙特效.html "宇宙特效")(建议右键新建窗口查看)
 # 说明文档
 > ### 使用步骤
 >> 1. 下载插件
